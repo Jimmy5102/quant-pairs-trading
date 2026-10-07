@@ -1,0 +1,8 @@
+Dependencies : 
+pandas
+numpy
+matplotlib
+yfinance
+scipy
+statsmodels
+jupyter
